@@ -11,7 +11,7 @@ This is a portfolio project built in Power Apps to track triathlon training work
 
 | Browse Screen | Workout Form | Detail View |
 |---------------|---------------|--------------|
-| ![Browse](https://github.com/powerappsDave/triathlon-training-app/blob/main/BrowseScreen.PNG) | ![Form](screenshots/form.png) | ![Detail](screenshots/detail.png) |
+| ![Browse](https://github.com/powerappsDave/triathlon-training-app/blob/main/BrowseScreen.PNG) | ![Form](https://github.com/powerappsDave/triathlon-training-app/blob/main/NewEditScreen.PNG) | ![Detail](https://github.com/powerappsDave/triathlon-training-app/blob/main/DetailsScreen.PNG) |
 
 ## 🔧 Tech Stack
 
